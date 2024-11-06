@@ -39,7 +39,7 @@ A personalização do treino é feita por meio de três critérios principais: b
 
 O primeiro passo na personalização do treino é identificar o biotipo corporal do usuário. O biotipo corporal influencia diretamente o tipo de treino, já que diferentes tipos de corpos respondem de maneiras variadas a diferentes estímulos.
 
-Os três biotipos principais são:
+### Os três biotipos principais são:
 
 <table>
   <tr>
@@ -88,19 +88,43 @@ Com base na quantidade de dias que o usuário pode treinar, o plano de treino se
 - **ABC**: Divisão do treino em 3 dias, focando em diferentes grupos musculares (ex: A para peito, B para costas, C para pernas).
 - **ABCDE**: Divisão do treino em 5 dias, com foco mais específico e intenso para cada grupo muscular.
 
+### Exemplo de Rotinas para 3 e 5 dias por semana:
+
+- **Treino ABC (3 Dias)**:  
+  - **Dia A**: Peito, ombro, tríceps  
+  - **Dia B**: Costas, bíceps, abdômen  
+  - **Dia C**: Pernas, glúteos, panturrilhas
+
+- **Treino ABCDE (5 Dias)**:  
+  - **Dia A**: Peito  
+  - **Dia B**: Costas  
+  - **Dia C**: Pernas  
+  - **Dia D**: Ombro  
+  - **Dia E**: Braços (bíceps, tríceps) e abdômen
+
 ---
 
 ## 🏋️ Tipos de Exercícios
 
 A escolha do tipo de exercício preferido vai ajudar o assistente a personalizar ainda mais o plano de treino. Cada tipo de treino é focado em objetivos diferentes, como força, resistência ou emagrecimento.
 
+### Tipos de Exercícios:
+
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, utilizando movimentos naturais (ex: agachamentos, flexões). |
+| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, utilizando movimentos naturais (ex: agachamentos, flexões).   |
 | <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios realizados em máquinas, focando no isolamento de grupos musculares específicos (ex: leg press, pectoral). |
 | <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres (halteres, barras), que trabalham vários grupos musculares simultaneamente.         |
 | <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios para melhorar a resistência cardiovascular, como corrida, bicicleta e natação.                      |
 | <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, focados na queima de gordura e aumento da resistência (ex: sprints).   |
+
+### Exemplos de Exercícios:
+
+- **Funcional**: Agachamento, flexões, abdominais, saltos no banco, burpees.
+- **Maquinário**: Leg press, extensora, peck deck, aparelho para bíceps.
+- **Peso Livre**: Agachamento com barra, levantamento terra, supino com barra, rosca direta.
+- **Cardio**: Corrida na esteira, bicicleta ergométrica, natação, corda.
+- **HIIT**: Sprints curtos, pular corda rápido, saltos pliométricos.
 
 ---
 
@@ -110,7 +134,9 @@ Para que o plano de treino seja ideal, as escolhas feitas pelo usuário precisam
 
 1. **Identificação do biotipo corporal**: A escolha do biotipo vai definir a intensidade e o foco do treino (massa muscular, emagrecimento, manutenção).
 2. **Definição dos dias disponíveis para treino**: Dependendo do número de dias, o treino será ajustado para maximizar o aproveitamento do tempo disponível.
-3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado com as preferências do usuário.
+3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado
+
+ com as preferências do usuário.
 4. **Geração do plano de treino**: Com as escolhas feitas, o assistente irá gerar um plano detalhado com os exercícios, a carga e o número de repetições adequados.
 
 ---
@@ -139,7 +165,5 @@ Com essas informações, o assistente irá sugerir um treino detalhado com exerc
 
 Para aprender mais sobre como construir prompts eficazes e melhorar suas práticas de engenharia de prompt, confira os seguintes materiais:
 
-- [Fundamentos de Engenharia de Prompt](https://elid
-
-ianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
+- [Fundamentos de Engenharia de Prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
 - [Boas Práticas de Prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
