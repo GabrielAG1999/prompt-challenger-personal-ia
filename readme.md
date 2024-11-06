@@ -39,11 +39,9 @@ A personalização do treino é feita por meio de três critérios principais: b
 
 O primeiro passo na personalização do treino é identificar o biotipo corporal do usuário. O biotipo corporal influencia diretamente o tipo de treino, já que diferentes tipos de corpos respondem de maneiras variadas a diferentes estímulos.
 
-<<<<<<< HEAD
 Os três biotipos principais são:
 =======
 ### Os três biotipos principais são:
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
 
 <table>
   <tr>
@@ -56,25 +54,26 @@ Os três biotipos principais são:
       <img src=".github/assets/ectomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Ectomorfo</strong></td>
-    <td>Corpo magro, com dificuldade para ganhar peso e massa muscular. Treinos focados em aumentar a massa muscular.</td>
+    <td>Corpo mais magro, difícil ganhar peso e massa muscular.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <img src=".github/assets/mesomorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Mesomorfo</strong></td>
-    <td>Corpo naturalmente musculoso, com facilidade para ganhar massa muscular e perder gordura. Treinos equilibrados, visando manutenção e definição.</td>
+    <td>Corpo naturalmente musculoso, facilidade para ganhar massa muscular e perder gordura.</td>
   </tr>
   <tr>
     <td style="text-align: center;">
       <img src=".github/assets/endmorph.jpg" width="50%" height="50%">
     </td>
     <td><strong>Endomorfo</strong></td>
-    <td>Corpo com tendência a acumular gordura, com maior dificuldade para perder peso. Treinos focados em queima de gordura e definição muscular.</td>
+    <td>Corpo com tendência a acumular gordura, maior dificuldade em perder peso.</td>
   </tr>
 </table>
 
-> **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual. Caso tenha dificuldades em identificar seu biotipo, procure ajuda de um profissional.
+> **Nota:** Escolha o biotipo que mais se aproxima do seu corpo atual para que o treino seja mais eficiente.
+
 
 ---
 
@@ -91,8 +90,7 @@ Com base na quantidade de dias que o usuário pode treinar, o plano de treino se
 - **Full Body**: Treino completo que trabalha o corpo todo em uma única sessão, ideal para quem treina 1 vez por semana.
 - **ABC**: Divisão do treino em 3 dias, focando em diferentes grupos musculares (ex: A para peito, B para costas, C para pernas).
 - **ABCDE**: Divisão do treino em 5 dias, com foco mais específico e intenso para cada grupo muscular.
-<<<<<<< HEAD
-=======
+
 
 ### Exemplo de Rotinas para 3 e 5 dias por semana:
 
@@ -107,32 +105,22 @@ Com base na quantidade de dias que o usuário pode treinar, o plano de treino se
   - **Dia C**: Pernas  
   - **Dia D**: Ombro  
   - **Dia E**: Braços (bíceps, tríceps) e abdômen
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
 
 ---
 
 ## 🏋️ Tipos de Exercícios
 
-A escolha do tipo de exercício preferido vai ajudar o assistente a personalizar ainda mais o plano de treino. Cada tipo de treino é focado em objetivos diferentes, como força, resistência ou emagrecimento.
-<<<<<<< HEAD
+A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, utilizando movimentos naturais (ex: agachamentos, flexões). |
-=======
+| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.                                |
+| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios feitos em máquinas, com foco em isolar grupos musculares.                                          |
+| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres, como halteres e barras, para trabalhar vários grupos musculares simultaneamente. |
+| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios voltados para melhorar a resistência cardiovascular, como corrida ou ciclismo.                     |
+| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, ótimos para queima de gordura.                                      |
 
-### Tipos de Exercícios:
 
-| **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
-| ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
-| <img src=".github/assets/dumbells.png" width="50%" height="50%"> | **Funcional**      | Exercícios que melhoram a funcionalidade do corpo, utilizando movimentos naturais (ex: agachamentos, flexões).   |
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
-| <img src=".github/assets/4760665.png" width="50%" height="50%">  | **Maquinário**     | Exercícios realizados em máquinas, focando no isolamento de grupos musculares específicos (ex: leg press, pectoral). |
-| <img src=".github/assets/barr.png" width="50%" height="50%">     | **Peso Livre**     | Exercícios com pesos livres (halteres, barras), que trabalham vários grupos musculares simultaneamente.         |
-| <img src=".github/assets/cardio.png" width="50%" height="50%">   | **Cardio**         | Exercícios para melhorar a resistência cardiovascular, como corrida, bicicleta e natação.                      |
-| <img src=".github/assets/hiit.png" width="50%" height="50%">     | **HIIT**           | Treinos intervalados de alta intensidade, focados na queima de gordura e aumento da resistência (ex: sprints).   |
-<<<<<<< HEAD
-=======
 
 ### Exemplos de Exercícios:
 
@@ -141,7 +129,6 @@ A escolha do tipo de exercício preferido vai ajudar o assistente a personalizar
 - **Peso Livre**: Agachamento com barra, levantamento terra, supino com barra, rosca direta.
 - **Cardio**: Corrida na esteira, bicicleta ergométrica, natação, corda.
 - **HIIT**: Sprints curtos, pular corda rápido, saltos pliométricos.
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
 
 ---
 
@@ -151,13 +138,11 @@ Para que o plano de treino seja ideal, as escolhas feitas pelo usuário precisam
 
 1. **Identificação do biotipo corporal**: A escolha do biotipo vai definir a intensidade e o foco do treino (massa muscular, emagrecimento, manutenção).
 2. **Definição dos dias disponíveis para treino**: Dependendo do número de dias, o treino será ajustado para maximizar o aproveitamento do tempo disponível.
-<<<<<<< HEAD
+
 3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado com as preferências do usuário.
-=======
 3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado
 
  com as preferências do usuário.
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
 4. **Geração do plano de treino**: Com as escolhas feitas, o assistente irá gerar um plano detalhado com os exercícios, a carga e o número de repetições adequados.
 
 ---
@@ -186,12 +171,7 @@ Com essas informações, o assistente irá sugerir um treino detalhado com exerc
 
 Para aprender mais sobre como construir prompts eficazes e melhorar suas práticas de engenharia de prompt, confira os seguintes materiais:
 
-<<<<<<< HEAD
-- [Fundamentos de Engenharia de Prompt](https://elid
 
-ianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
-- [Boas Práticas de Prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
-=======
 - [Fundamentos de Engenharia de Prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
 - [Boas Práticas de Prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
->>>>>>> 0a565ca2bcfa02dcd26ab87c8a3342c5272de31a
+
