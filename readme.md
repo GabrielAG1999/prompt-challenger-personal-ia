@@ -128,8 +128,8 @@ Com as informações coletadas, o assistente de treino gerará o plano da seguin
 ### Exemplo de resposta:
 
 - **Biotipo:** Mesomorfo
-- **Dias de treino:** 3
-- **Tipo de exercício preferido:** Peso Livre
+- **Dias de treino:** 5
+- **Tipo de exercício preferido:** Maquinário
 
 Com essas informações, o assistente irá sugerir um treino detalhado com exercícios adequados ao biotipo e aos objetivos do usuário, dentro da disponibilidade de dias escolhida.
 
