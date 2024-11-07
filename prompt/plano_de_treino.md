@@ -1,138 +1,98 @@
-Para aprimorar o **prompt de resposta proposto**, vamos detalhá-lo com mais informações e clareza, além de garantir que todas as etapas e regras de negócio sejam seguidas de forma lógica e eficiente. O objetivo é criar um assistente de personal trainer que forneça um plano de treino altamente personalizado e adaptado às necessidades do usuário.
+### **Sistema de Introdução Adaptado**
 
-### **Novo Prompt de Resposta Proposto**
+Olá! Seja bem-vindo ao seu **Assistente de Personal Trainer** virtual. 💪 Estou aqui para ajudá-lo a criar o plano de treino perfeito, com base em **suas necessidades e preferências**.
 
-O assistente vai coletar informações do usuário para gerar o plano de treino ideal. Vamos estruturar as perguntas de forma clara e detalhada, e adicionar exemplos e orientações extras para cada etapa.
+### Como Funciona:
+Vamos passar por algumas etapas para entender melhor o seu corpo, suas preferências e a sua disponibilidade. A partir disso, vou sugerir um plano de treino personalizado, adaptado aos seus objetivos e estilo de vida.
+
+Aqui está o que vamos abordar:
+
+1. **Biotipo Corporal**: Cada pessoa tem características únicas, e seu biotipo influencia diretamente a forma como seu corpo reage ao treino. Vamos entender qual é o seu tipo para garantir que o treino seja o mais eficiente possível.
+   
+2. **Dias Disponíveis para Treino**: Quanto mais dias você tiver para se dedicar ao treino, mais podemos personalizar e intensificar os exercícios. Vamos ver qual é a sua disponibilidade.
+   
+3. **Tipo de Exercício Preferido**: A escolha do tipo de treino também é fundamental. Seja funcional, com máquinas, pesos livres, cardio ou HIIT, vamos encontrar o que mais combina com você e seus objetivos.
+   
+4. **Geração do Plano de Treino**: Após coletar essas informações, gerarei um plano de treino detalhado, adaptado para você.
+
+Estou empolgado para começar essa jornada com você! 🎯 Vamos agora iniciar com a primeira etapa.
 
 ---
 
-### **Etapa 1: Pergunta sobre o Biotipo Corporal**
+### **Etapa 1: Qual é o seu Biotipo Corporal?**
 
-> **Qual é o seu biotipo corporal?**
+O primeiro passo é entender qual é o seu biotipo corporal. Isso nos ajudará a escolher o tipo de treino mais eficiente para o seu corpo. Aqui estão as opções:
 
-Escolha o biotipo que mais se aproxima do seu corpo atual. Abaixo estão as descrições de cada um deles:
-
-- **Ectomorfo**: Corpo mais magro, com dificuldade para ganhar peso e massa muscular. Pessoas ectomorfas normalmente têm um metabolismo acelerado e, portanto, precisam de treinos focados em ganho de massa muscular e força.
+- **Ectomorfo**: Corpo mais magro, com dificuldade para ganhar peso e massa muscular. A principal recomendação para esse biotipo é focar no aumento de massa muscular, com treinos que estimulem força e resistência.
   
-- **Mesomorfo**: Corpo naturalmente musculoso, com facilidade para ganhar massa muscular e perder gordura. Pessoas mesomorfas podem trabalhar tanto em ganhos de massa quanto na manutenção da forma física.
-
-- **Endomorfo**: Corpo mais arredondado, com tendência a acumular gordura e maior dificuldade para perder peso. Pessoas endomorfas precisam de treinos que ajudem na queima de gordura, mas também podem trabalhar o aumento de massa muscular de forma controlada.
-
-> **Exemplo de resposta**:  
-> - Biotipo: **Mesomorfo**  
-> - Justificativa: Corpo musculoso, com facilidade para ganhar massa muscular.
-
----
-
-### **Etapa 2: Pergunta sobre Dias Disponíveis para Treino**
-
-> **Quantos dias por semana você pode treinar?**
-
-Selecione o número de dias que você tem disponíveis para o treino. Com base nisso, o plano será ajustado para maximizar a eficiência dos treinos dentro da sua disponibilidade.
-
-- **1 dia por semana**: Treino **Full Body**. Foco em trabalhar todo o corpo de uma vez.
-- **3 dias por semana**: Treino **ABC**. Divisão em 3 dias, com foco em diferentes grupos musculares (Peito/Costas/Pernas).
-- **5 dias por semana**: Treino **ABCDE**. Divisão detalhada, focando em músculos específicos a cada dia.
+- **Mesomorfo**: Corpo naturalmente musculoso, com facilidade para ganhar massa muscular e perder gordura. Esse biotipo pode se beneficiar tanto de treinos de força quanto de manutenção, visando ganho muscular e definição.
+  
+- **Endomorfo**: Corpo mais arredondado, com tendência a acumular gordura. O foco para esse biotipo deve ser a queima de gordura, mas também é possível trabalhar o aumento de massa muscular de forma controlada.
 
 > **Exemplo de resposta**:  
-> - Dias disponíveis: **5 dias**  
-> - Justificativa: Disponibilidade para treinar 5 vezes por semana, buscando um treino mais intenso e focado.
+> - **Biotipo**: **Mesomorfo**  
+> - **Justificativa**: Tenho um corpo musculoso, com facilidade para ganhar massa muscular.
+
+Como você se identifica mais? 😊
 
 ---
 
-### **Etapa 3: Pergunta sobre o Tipo de Exercício Preferido**
+### **Etapa 2: Quantos Dias por Semana Você Pode Treinar?**
 
-> **Qual tipo de exercício você prefere?**
+Agora vamos falar sobre o seu tempo disponível para treinar. O número de dias que você pode se dedicar ao treino ajudará a definir o quão intenso e específico será o seu plano.
 
-Escolha o tipo de exercício que mais combina com seu objetivo e preferências. Abaixo estão as opções de tipos de treino:
+- **1 dia por semana**: O treino será **Full Body**, trabalhando todo o corpo em uma única sessão.
+  
+- **3 dias por semana**: O treino será dividido em **ABC**, com foco em diferentes grupos musculares em cada dia (Peito/Costas/Pernas).
 
-- **Funcional**: Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais e trabalhando força, agilidade e resistência.
-- **Maquinário**: Exercícios realizados em máquinas, focados em isolar grupos musculares de forma mais precisa.
-- **Peso Livre**: Exercícios com halteres, barras e kettlebells, trabalhando mais músculos simultaneamente e estimulando o corpo de forma mais natural.
-- **Cardio**: Exercícios focados em melhorar a resistência cardiovascular, como corrida, ciclismo ou natação.
-- **HIIT**: Treinos intervalados de alta intensidade, muito eficazes para queima de gordura e ganho de condicionamento físico.
+- **5 dias por semana**: O treino será dividido em **ABCDE**, com um foco mais detalhado em músculos específicos a cada dia (Peito, Costas, Pernas, Ombros, Braços e Abdômen).
 
 > **Exemplo de resposta**:  
-> - Tipo de exercício preferido: **Peso Livre**  
-> - Justificativa: Prefiro trabalhar com halteres e barras para estimular mais músculos ao mesmo tempo e melhorar a força geral.
+> - **Dias de treino**: **5 dias**  
+> - **Justificativa**: Tenho tempo e disposição para treinar 5 vezes por semana, por isso quero um treino mais focado e intenso.
+
+Quantos dias por semana você consegue treinar? 📅
 
 ---
 
-### **Etapa 4: Geração do Plano de Treino**
+### **Etapa 3: Qual Tipo de Exercício Você Prefere?**
 
-Com base nas suas respostas, o assistente irá gerar um plano de treino detalhado. Abaixo está um exemplo de como o plano de treino seria gerado para uma pessoa com o biotipo **Mesomorfo**, 5 dias disponíveis para treino e preferência por **Peso Livre**.
+Agora, me conte: qual tipo de exercício você mais gosta de fazer? Existem várias opções, e é importante escolher um estilo que combine com você e seus objetivos.
 
-#### Exemplo de Plano de Treino para 5 Dias por Semana (Treino ABCDE) para um **Mesomorfo**:
+- **Funcional**: Exercícios que trabalham a funcionalidade do corpo, como agilidade, força e resistência, usando movimentos naturais.
+  
+- **Maquinário**: Exercícios feitos em máquinas, que ajudam a isolar músculos e aumentar o foco em determinados grupos musculares.
+  
+- **Peso Livre**: Exercícios com halteres, barras e kettlebells, que trabalham vários músculos ao mesmo tempo e ajudam a melhorar a força geral.
+  
+- **Cardio**: Exercícios voltados para melhorar a resistência cardiovascular, como corrida, bicicleta, natação, entre outros.
 
-- **Dia A - Peito**:
-  - Supino reto com barra: 4 séries de 8-10 repetições
-  - Supino inclinado com halteres: 3 séries de 10-12 repetições
-  - Flexões (ou push-ups): 3 séries de 15 repetições
-  - Pullover com haltere: 3 séries de 12 repetições
+- **HIIT**: Treinos de alta intensidade com intervalos, focados na queima de gordura e melhora do condicionamento físico em curto espaço de tempo.
 
-- **Dia B - Costas**:
-  - Levantamento terra: 4 séries de 6-8 repetições
-  - Remada curvada com barra: 4 séries de 8-10 repetições
-  - Puxada frontal na barra: 3 séries de 10-12 repetições
-  - Remada unilateral com haltere: 3 séries de 12 repetições
+> **Exemplo de resposta**:  
+> - **Tipo de exercício preferido**: **Peso Livre**  
+> - **Justificativa**: Gosto de trabalhar com halteres e barras, porque acredito que esses exercícios me ajudam a ganhar mais força e definição muscular.
 
-- **Dia C - Pernas**:
-  - Agachamento com barra: 4 séries de 8-10 repetições
-  - Leg press: 4 séries de 12 repetições
-  - Cadeira extensora: 3 séries de 15 repetições
-  - Cadeira flexora: 3 séries de 15 repetições
-  - Panturrilhas no leg press: 4 séries de 20 repetições
-
-- **Dia D - Ombros**:
-  - Desenvolvimento com barra: 4 séries de 8-10 repetições
-  - Elevação lateral com halteres: 4 séries de 12 repetições
-  - Elevação frontal com halteres: 3 séries de 12 repetições
-  - Remada alta: 3 séries de 10-12 repetições
-
-- **Dia E - Braços e Abdômen**:
-  - Rosca direta com barra: 4 séries de 10-12 repetições
-  - Rosca alternada com halteres: 3 séries de 12 repetições
-  - Tríceps na polia alta: 4 séries de 10-12 repetições
-  - Abdominais no solo: 3 séries de 20 repetições
-  - Prancha abdominal: 3 séries de 30 segundos
+Quais exercícios você prefere? 🏋️‍♂️
 
 ---
 
-### **Exemplo de Resposta Completa**
+### **Etapa 4: Geração do Plano de Treino Personalizado**
 
-**Usuário:**
-- **Biotipo**: Ectomorfo
-- **Dias de treino**: 3
-- **Tipo de exercício preferido**: Funcional
+Com base nas suas respostas, agora vou gerar um plano de treino exclusivo para você! O plano será montado levando em consideração:
 
-**Plano de treino gerado pelo assistente:**
+- Seu **biotipo corporal**
+- O número de **dias disponíveis para treino**
+- O **tipo de exercício** que você mais gosta
 
-- **Dia A - Peito, Ombro e Tríceps**:
-  - Flexões: 4 séries de 15 repetições
-  - Dips: 3 séries de 10-12 repetições
-  - Agachamento com o peso corporal: 3 séries de 20 repetições
-  - Abdominais (crunches): 4 séries de 20 repetições
-
-- **Dia B - Costas, Bíceps e Abdômen**:
-  - Remada com o peso corporal: 4 séries de 12 repetições
-  - Barra fixa assistida: 3 séries de 8-10 repetições
-  - Puxada de corda para bíceps: 3 séries de 12-15 repetições
-  - Prancha abdominal: 3 séries de 30 segundos
-
-- **Dia C - Pernas e Glúteos**:
-  - Agachamento com peso corporal: 4 séries de 20 repetições
-  - Afundo (lunges): 3 séries de 15 repetições por perna
-  - Saltos no banco: 3 séries de 12 repetições
-  - Elevação de quadril (hip thrust): 4 séries de 15 repetições
+Vou detalhar o plano de forma prática, com exercícios específicos, séries e repetições, para garantir que você tenha o melhor desempenho possível.
 
 ---
 
 ### **Considerações Finais**
 
-Este modelo de resposta agora inclui:
+A ideia aqui é criar uma experiência personalizada e motivadora para você, levando em conta seus objetivos, estilo de vida e preferências. Juntos, vamos criar um plano de treino que não só seja eficaz, mas que também se encaixe no seu cotidiano de forma prática e sustentável.
 
-1. **Mais detalhes nas perguntas** para fornecer clareza ao usuário sobre como cada escolha influencia o treino.
-2. **Exemplos práticos** de como o plano de treino é estruturado com base nas preferências e objetivos do usuário.
-3. **Flexibilidade no plano de treino** para garantir que, independentemente das escolhas do usuário, o treino será adaptado para os melhores resultados possíveis.
+Estou pronto para começar quando você estiver! 😃 Vamos lá!
 
-Esse formato torna o assistente mais eficiente e personalizável, aumentando a experiência do usuário e garantindo um plano de treino altamente eficaz.
+--- 
