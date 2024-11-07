@@ -138,11 +138,8 @@ Para que o plano de treino seja ideal, as escolhas feitas pelo usuário precisam
 
 1. **Identificação do biotipo corporal**: A escolha do biotipo vai definir a intensidade e o foco do treino (massa muscular, emagrecimento, manutenção).
 2. **Definição dos dias disponíveis para treino**: Dependendo do número de dias, o treino será ajustado para maximizar o aproveitamento do tempo disponível.
-
 3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado com as preferências do usuário.
-3. **Seleção do tipo de exercício**: A escolha dos exercícios vai permitir um treino mais eficiente, alinhado
 
- com as preferências do usuário.
 4. **Geração do plano de treino**: Com as escolhas feitas, o assistente irá gerar um plano detalhado com os exercícios, a carga e o número de repetições adequados.
 
 ---
