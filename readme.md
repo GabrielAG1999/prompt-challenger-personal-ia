@@ -144,23 +144,9 @@ Para que o plano de treino seja ideal, as escolhas feitas pelo usuário precisam
 
 ---
 
-## 🎯 Prompt de Resposta Proposto
+## Prompt de resposta
 
-Com as informações coletadas, o assistente de treino gerará o plano da seguinte forma:
-
-### Perguntas do Assistente:
-
-1. **Qual é o seu biotipo corporal?** (Ectomorfo, Mesomorfo, Endomorfo)
-2. **Quantos dias por semana você pode treinar?** (1, 3, 5)
-3. **Qual tipo de exercício você prefere?** (Funcional, Maquinário, Peso Livre, Cardio, HIIT)
-
-### Exemplo de resposta:
-
-- **Biotipo:** Mesomorfo
-- **Dias de treino:** 5
-- **Tipo de exercício preferido:** Maquinário
-
-Com essas informações, o assistente irá sugerir um treino detalhado com exercícios adequados ao biotipo e aos objetivos do usuário, dentro da disponibilidade de dias escolhida.
+[Prompt - Plano de Treino](https://github.com/GabrielAG1999/prompt-challenger-personal-ia/tree/main/prompt)
 
 ---
 
@@ -171,4 +157,3 @@ Para aprender mais sobre como construir prompts eficazes e melhorar suas prátic
 
 - [Fundamentos de Engenharia de Prompt](https://elidianaandrade.gitbook.io/fundamentos-de-engenharia-de-prompts-com-claude-3)
 - [Boas Práticas de Prompt](https://aline-antunes.gitbook.io/otimize-seus-prompts-e-aprenda-mais-usando-ias-1)
-
